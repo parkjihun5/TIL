@@ -1,5 +1,6 @@
 ### 이번엔 적대적 몹에 대한 데이터를 만들자
 
+```
 class EnemyList:
     def __init__(self):
         self.all_enemies = [
@@ -23,3 +24,4 @@ class Enemy:
         self.s1_name, self.s1_scope, self.s1_effect, self.s1_mult = s1_data
         # 궁극기 (skill2)
         self.s2_name, self.s2_scope, self.s2_effect, self.s2_mult = s2_data
+```

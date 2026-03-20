@@ -1,5 +1,6 @@
 ### 이제 전투(메인)로직을 만들어보자
 
+```
 import game_characters
 import game_party
 import game_enemy
@@ -125,3 +126,4 @@ def start_battle():
 
 if __name__ == "__main__":
     start_battle()
+```

@@ -14,6 +14,7 @@
 ---
 #우선 캐릭터의 데이터를 집어넣자
 
+```
 class CharacterList:
     def __init__(self):
         # 데이터 구조: (이름, 역할, HP, ATK, SPD, 일반공격셋, 전투스킬셋, 필살기셋)
@@ -58,3 +59,4 @@ class Character:
         self.n_name, self.n_scope, self.n_effect, self.n_mult = n_data
         self.b_name, self.b_scope, self.b_effect, self.b_mult = b_data
         self.u_name, self.u_scope, self.u_effect, self.u_mult = u_data
+```

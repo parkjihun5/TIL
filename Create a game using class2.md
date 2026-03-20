@@ -1,5 +1,6 @@
 ### 이번엔 파티 구성 시스템을 만들어보자
 
+```
 import game_characters
 
 def make_party():
@@ -43,3 +44,4 @@ def make_party():
         print(f"{i+1}번 대원: {member.name} ({member.role})")
 
     return party
+```
