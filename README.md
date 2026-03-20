@@ -59,7 +59,7 @@
 * **React:** UI 구성 및 상태 관리(Zustand, Axios) 실습
 
 ### 3. Certification & Course
-* **SeSAC AI Service Developer Course** (Multicampus 주관) 참여 중 (~2026.05.20 종료 예정)
+* **SeSAC AI Agent와 RAG를 활용한 생각하는 AI 서비스 개발자 양성과정** (Multicampus 주관) 참여 중 (~2026.05.20 종료 예정)
 * **CompTIA 정보처리기사** 자격증 대비 학습
 
 ---
