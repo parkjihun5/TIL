@@ -28,7 +28,7 @@
 
 <p>
   <strong>&nbsp;&nbsp;Framework / Library&nbsp;&nbsp;</strong><br>
-  <img src="https://skillicons.dev/icons?i=fastapi,react" />
+  <img src="https://skillicons.dev/icons?i=fastapi,react,tailwind" />
 </p>
 
 <p>
