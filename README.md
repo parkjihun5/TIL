@@ -23,7 +23,7 @@
 
 <p>
   <strong>&nbsp;&nbsp;Language&nbsp;&nbsp;</strong><br>
-  <img src="https://skillicons.dev/icons?i=py,js" />
+  <img src="https://skillicons.dev/icons?i=py,js,java" />
 </p>
 
 <p>
