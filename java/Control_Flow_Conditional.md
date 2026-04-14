@@ -14,6 +14,7 @@
 > - `else if`: 앞선 조건이 참이면 뒤의 조건은 무시하므로 성능상 유리함.
 
 ### 1-2. 실습 예제 코드 (Standard Edition)
+```
 public class GradeSummary {
     public static void main(String[] args) {
         int score = 85;
@@ -29,6 +30,7 @@ public class GradeSummary {
         }
     }
 }
+```
 
 ## 2. switch 문
 특정 변수의 값에 따라 분기할 때 사용하며, `if`문보다 구조가 정형화되어 있어 가독성이 좋음.
@@ -42,6 +44,7 @@ public class GradeSummary {
 Java 12 이상에서 도입된 간결한 문법으로, `->` 연산자와 `yield`를 활용함.
 
 ### 2-3. 실습 예제 코드 (Standard Edition)
+```
 public class SwitchModern {
     public static void main(String[] args) {
         char grade = 'B';
@@ -66,3 +69,4 @@ public class SwitchModern {
         System.out.println("획득 포인트: " + point);
     }
 }
+```
